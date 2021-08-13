@@ -9,7 +9,7 @@ public class Factorial {
 	For the test cases, the range will be between 1 and 18 and the input will always be an integer.*/
 	
 	public static void main(String[] args) {
-		// keep this function call here
+
 		Scanner s = new Scanner(System.in);
 		System.out.print(FirstFactorial(Integer.parseInt(s.nextLine())));
 	}
